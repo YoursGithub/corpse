@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "95RT4HSUD4.com.corpsearena.app",
+        "paths": ["/*"]
+      }
+    ]
+  }
+}
