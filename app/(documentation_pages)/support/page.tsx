@@ -27,7 +27,7 @@ export default function PolicyPage() {
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           How-To Guides FAQs Troubleshooting Safety Glossary
         </p>
-        <div className="overflow-x-auto mb-10 w-full max-w-4xl">
+        {/* <div className="overflow-x-auto mb-10 w-full max-w-4xl">
           <table className="w-full text-left border-collapse border border-[#e8192c]/20 bg-[#101010] rounded-xl overflow-hidden shadow-lg shadow-black/50">
             <tr className="border-b border-white/10">
               <td className="border border-white/20 p-3">
@@ -80,7 +80,7 @@ export default function PolicyPage() {
               </td>
             </tr>
           </table>
-        </div>
+        </div> */}
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <em>
             Can't find what you're looking for? Email <a href="mailto:support@corpsearena.com" className="text-[#e8192c] hover:underline transition-colors">support@corpsearena.com</a> or tap

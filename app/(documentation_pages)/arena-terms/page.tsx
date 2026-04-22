@@ -36,7 +36,7 @@ export default function PolicyPage() {
             Arenas
           </em>
         </p>
-        <div className="overflow-x-auto mb-10 w-full max-w-4xl">
+        {/* <div className="overflow-x-auto mb-10 w-full max-w-4xl">
           <table className="w-full text-left border-collapse border border-[#e8192c]/20 bg-[#101010] rounded-xl overflow-hidden shadow-lg shadow-black/50">
             <tr className="border-b border-white/10">
               <td className="border border-white/20 p-3">
@@ -157,7 +157,7 @@ export default function PolicyPage() {
               </td>
             </tr>
           </table>
-        </div>
+        </div> */}
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <em>
             By registering for or participating in any Arena on the Corpse
@@ -166,7 +166,7 @@ export default function PolicyPage() {
             Conditions in their entirety.
           </em>
         </p>
-        <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
+        {/* <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <strong>Table of Contents</strong>
         </p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
@@ -284,7 +284,7 @@ export default function PolicyPage() {
         </p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 61. Governing Law</p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 62. Dispute Resolution</p>
-        <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 63. Contact</p>
+        <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 63. Contact</p> */}
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <strong>PART I — INTRODUCTION &amp; SCOPE</strong>
         </p>

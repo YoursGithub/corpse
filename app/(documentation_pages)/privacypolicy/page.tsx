@@ -34,7 +34,7 @@ export default function PolicyPage() {
             Platform Interactions
           </em>
         </p>
-        <div className="overflow-x-auto mb-10 w-full max-w-4xl">
+        {/* <div className="overflow-x-auto mb-10 w-full max-w-4xl">
           <table className="w-full text-left border-collapse border border-[#e8192c]/20 bg-[#101010] rounded-xl overflow-hidden shadow-lg shadow-black/50">
             <tr className="border-b border-white/10">
               <td className="border border-white/20 p-3">
@@ -160,7 +160,7 @@ export default function PolicyPage() {
               </td>
             </tr>
           </table>
-        </div>
+        </div> */}
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <em>
             This Master Privacy Policy v2.0 is the single, definitive, and

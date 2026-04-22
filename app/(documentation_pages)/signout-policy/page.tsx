@@ -27,7 +27,7 @@ export default function PolicyPage() {
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <em>Binding on: All Registered Users | All Active Sessions</em>
         </p>
-        <div className="overflow-x-auto mb-10 w-full max-w-4xl">
+        {/* <div className="overflow-x-auto mb-10 w-full max-w-4xl">
           <table className="w-full text-left border-collapse border border-[#e8192c]/20 bg-[#101010] rounded-xl overflow-hidden shadow-lg shadow-black/50">
             <tbody>
               <tr className="border-b border-white/10">
@@ -130,7 +130,7 @@ export default function PolicyPage() {
               </tr>
             </tbody>
           </table>
-        </div>
+        </div> */}
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <em>
             This Sign Out Policy governs all session management, voluntary

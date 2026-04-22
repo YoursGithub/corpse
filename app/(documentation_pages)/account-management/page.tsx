@@ -31,7 +31,7 @@ export default function PolicyPage() {
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <em>DPDP Act 2023 Compliant | Version 1.0 | Final</em>
         </p>
-        <div className="overflow-x-auto mb-10 w-full max-w-4xl">
+        {/* <div className="overflow-x-auto mb-10 w-full max-w-4xl">
           <table className="w-full text-left border-collapse border border-[#e8192c]/20 bg-[#101010] rounded-xl overflow-hidden shadow-lg shadow-black/50">
             <tr className="border-b border-white/10">
               <td className="border border-white/20 p-3">
@@ -122,7 +122,7 @@ export default function PolicyPage() {
               </td>
             </tr>
           </table>
-        </div>
+        </div> */}
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <em>
             This Privacy Policy governs data collected and processed exclusively
@@ -131,7 +131,7 @@ export default function PolicyPage() {
             are governed by the Corpse Full Privacy Policy.
           </em>
         </p>
-        <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
+        {/* <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <strong>Table of Contents</strong>
         </p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
@@ -197,7 +197,7 @@ export default function PolicyPage() {
           <strong>PART IX Updates &amp; Contact</strong>
         </p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 26. Changes to This Policy</p>
-        <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 27. Grievance Officer &amp; Contact</p>
+        <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 27. Grievance Officer &amp; Contact</p> */}
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <strong>PART I — INTRODUCTION &amp; SCOPE</strong>
         </p>

@@ -30,7 +30,7 @@ export default function PolicyPage() {
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <em>Binding on: All Registered Users | Players | Organisers</em>
         </p>
-        <div className="overflow-x-auto mb-10 w-full max-w-4xl">
+        {/* <div className="overflow-x-auto mb-10 w-full max-w-4xl">
           <table className="w-full text-left border-collapse border border-[#e8192c]/20 bg-[#101010] rounded-xl overflow-hidden shadow-lg shadow-black/50">
             <tr className="border-b border-white/10">
               <td className="border border-white/20 p-3">
@@ -131,7 +131,7 @@ export default function PolicyPage() {
               </td>
             </tr>
           </table>
-        </div>
+        </div> */}
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <em>
             This document governs the flag system, warning process, account
@@ -140,7 +140,7 @@ export default function PolicyPage() {
             Terms in their entirety.
           </em>
         </p>
-        <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
+        {/* <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <strong>Table of Contents</strong>
         </p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
@@ -235,7 +235,7 @@ export default function PolicyPage() {
         </p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 44. Governing Law</p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 45. Dispute Resolution</p>
-        <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 46. Contact</p>
+        <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 46. Contact</p> */}
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <strong>PART I — INTRODUCTION &amp; SCOPE</strong>
         </p>

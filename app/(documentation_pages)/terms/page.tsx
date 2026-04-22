@@ -33,7 +33,7 @@ export default function PolicyPage() {
             Squad Members
           </em>
         </p>
-        <div className="overflow-x-auto mb-10 w-full max-w-4xl">
+        {/* <div className="overflow-x-auto mb-10 w-full max-w-4xl">
           <table className="w-full text-left border-collapse border border-[#e8192c]/20 bg-[#101010] rounded-xl overflow-hidden shadow-lg shadow-black/50">
             <tr className="border-b border-white/10">
               <td className="border border-white/20 p-3">
@@ -134,7 +134,7 @@ export default function PolicyPage() {
               </td>
             </tr>
           </table>
-        </div>
+        </div> */}
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <em>
             By downloading, installing, accessing, or using the Corpse platform
@@ -144,7 +144,7 @@ export default function PolicyPage() {
             continued use of the Platform constitutes acceptance.
           </em>
         </p>
-        <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
+        {/* <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <strong>Table of Contents</strong>
         </p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
@@ -288,7 +288,7 @@ export default function PolicyPage() {
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 80. Governing Law</p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 81. Dispute Resolution &amp; Arbitration</p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 82. Grievance Redressal — IT Rules 2021</p>
-        <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 83. Contact</p>
+        <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]"> 83. Contact</p> */}
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <strong>PART I — INTRODUCTION &amp; ACCEPTANCE</strong>
         </p>
