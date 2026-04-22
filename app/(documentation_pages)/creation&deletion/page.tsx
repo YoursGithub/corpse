@@ -1131,7 +1131,7 @@ export default function PolicyPage() {
           When you initiate an account deletion request, the Platform sends a
           single transactional email to your registered email address as part of
           the identity verification step (Step 3 of the deletion process as
-          described in the Master Terms &amp; Conditions, Section 21).
+          described in the Corpse Terms &amp; Conditions, Section 21).
         </p>
         <div className="overflow-x-auto mb-10 w-full max-w-4xl">
           <table className="w-full text-left border-collapse border border-[#e8192c]/20 bg-[#101010] rounded-xl overflow-hidden shadow-lg shadow-black/50">
@@ -2027,7 +2027,7 @@ export default function PolicyPage() {
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           Account deletion does not result in complete erasure of all associated
           data. The following table details the exact treatment of every data
-          category upon account deletion, consistent with the Master Terms &amp;
+          category upon account deletion, consistent with the Corpse Terms &amp;
           Conditions, Section 22:
         </p>
         <div className="overflow-x-auto mb-10 w-full max-w-4xl">
@@ -2478,7 +2478,7 @@ export default function PolicyPage() {
               <td className="border border-white/20 p-3">
                 <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
                   Platform username cannot be corrected after creation. It is
-                  permanent by design (Master T&amp;C, Section 14.1).
+                  permanent by design (Corpse T&amp;C, Section 14.1).
                 </p>
               </td>
             </tr>
@@ -2489,7 +2489,7 @@ export default function PolicyPage() {
               <td className="border border-white/20 p-3">
                 <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
                   Request deletion of your registration data. May also be
-                  exercised by deleting your account (Master T&amp;C, Part IV).
+                  exercised by deleting your account (Corpse T&amp;C, Part IV).
                 </p>
               </td>
               <td className="border border-white/20 p-3">

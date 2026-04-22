@@ -101,7 +101,7 @@ export default function PolicyPage() {
               </td>
               <td className="border border-white/20 p-3">
                 <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
-                  Master T&amp;C | Money Deposit &amp; Receive Policy | Account
+                  Corpse T&amp;C | Money Deposit &amp; Receive Policy | Account
                   Suspension &amp; Ban T&amp;C
                 </p>
               </td>
@@ -375,7 +375,7 @@ export default function PolicyPage() {
             </tr>
             <tr className="border-b border-white/10">
               <td className="border border-white/20 p-3">
-                <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">Master Terms &amp; Conditions</p>
+                <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">Corpse Terms &amp; Conditions</p>
               </td>
               <td className="border border-white/20 p-3">
                 <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
@@ -650,7 +650,7 @@ export default function PolicyPage() {
             cannot join any Free Fire arena.
           </li>
           <li>
-            Have agreed to these Arena T&amp;C, the Master Terms &amp;
+            Have agreed to these Arena T&amp;C, the Corpse Terms &amp;
             Conditions, and all applicable Platform policies.
           </li>
         </ul>
@@ -1613,7 +1613,7 @@ export default function PolicyPage() {
         <ul className="list-disc pl-10 space-y-3 mb-10 text-white/80 text-left bg-[#101010] p-8 rounded-xl border-l-4 border-[#e8192c] max-w-3xl w-full shadow-lg shadow-black/50">
           <li>
             Corpse Arena Rules — as set out in these Arena T&amp;C and the
-            Platform's Master Terms &amp; Conditions. Violations are enforced by
+            Platform's Corpse Terms &amp; Conditions. Violations are enforced by
             Corpse through the flag and suspension system.
           </li>
           <li>
@@ -2878,7 +2878,7 @@ export default function PolicyPage() {
           Information Technology Act 2000, the Consumer Protection Act 2019, and
           all applicable provisions of the Indian Penal Code, as amended from
           time to time. These Arena T&amp;C operate within and supplement the
-          Master Terms &amp; Conditions of the Corpse platform.
+          Corpse Terms &amp; Conditions of the Corpse platform.
         </p>
         <h2 className="text-2xl md:text-3xl font-semibold mt-16 mb-8 text-white border-b-2 border-[#e8192c]/50 pb-4 inline-block">
           <strong>62. Dispute Resolution</strong>

@@ -75,7 +75,7 @@ export default function PolicyPage() {
               </td>
               <td className="border border-white/20 p-3">
                 <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
-                  IT Act 2000 | Master Terms &amp; Conditions | Platform
+                  IT Act 2000 | Corpse Terms &amp; Conditions | Platform
                   Community Standards
                 </p>
               </td>
@@ -305,12 +305,12 @@ export default function PolicyPage() {
           <strong>3. Relationship to Other Corpse Policies</strong>
         </h2>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
-          This Suspension Policy is a supplementary policy to the Corpse Master
+          This Suspension Policy is a supplementary policy to the Corpse
           Terms &amp; Conditions. It is specifically referenced in:
         </p>
         <ul className="list-disc pl-10 space-y-3 mb-10 text-white/80 text-left bg-[#101010] p-8 rounded-xl border-l-4 border-[#e8192c] max-w-3xl w-full shadow-lg shadow-black/50">
           <li>
-            Master Terms &amp; Conditions — Section 26 (Company's Right to
+            Corpse Terms &amp; Conditions — Section 26 (Company's Right to
             Suspend or Terminate Accounts)
           </li>
           <li>
@@ -324,7 +324,7 @@ export default function PolicyPage() {
         </ul>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           In the event of any conflict between this Suspension Policy and the
-          Master Terms &amp; Conditions, the Master Terms &amp; Conditions shall
+          Corpse Terms &amp; Conditions, the Corpse Terms &amp; Conditions shall
           prevail. In the event of any conflict between this Suspension Policy
           and the Money Deposit &amp; Receive Policy on financial matters
           arising from suspensions or bans, the Money Deposit &amp; Receive
@@ -380,7 +380,7 @@ export default function PolicyPage() {
             </tr>
             <tr className="border-b border-white/10">
               <td className="border border-white/20 p-3">
-                <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">Master Terms &amp; Conditions — Corpse</p>
+                <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">Corpse Terms &amp; Conditions — Corpse</p>
               </td>
               <td className="border border-white/20 p-3">
                 <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
@@ -860,7 +860,7 @@ export default function PolicyPage() {
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <em>
             Note: Creating multiple accounts is separately prohibited under the
-            Master Terms &amp; Conditions and the Account Creation Terms. This
+            Corpse Terms &amp; Conditions and the Account Creation Terms. This
             violation specifically covers the use of multiple accounts for the
             purpose of competitive manipulation. Creating a new account after a
             ban is separately addressed in Part VII.

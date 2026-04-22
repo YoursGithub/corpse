@@ -73,7 +73,7 @@ export default function PolicyPage() {
                 </td>
                 <td className="border border-white/20 p-3">
                   <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
-                    Master Terms &amp; Conditions | Account Suspension &amp; Ban
+                    Corpse Terms &amp; Conditions | Account Suspension &amp; Ban
                     T&amp;C | Privacy Policy
                   </p>
                 </td>
@@ -207,7 +207,7 @@ export default function PolicyPage() {
         </p>
         <ul className="list-disc pl-10 space-y-3 mb-10 text-white/80 text-left bg-[#101010] p-8 rounded-xl border-l-4 border-[#e8192c] max-w-3xl w-full shadow-lg shadow-black/50">
           <li>
-            Master Terms &amp; Conditions — general session and account rules.
+            Corpse Terms &amp; Conditions — general session and account rules.
           </li>
           <li>
             Account Suspension &amp; Ban T&amp;C — force termination of sessions
@@ -890,7 +890,7 @@ export default function PolicyPage() {
           with the laws of India, including the Information Technology Act 2000
           and the IT (Intermediary Guidelines and Digital Media Ethics Code)
           Rules 2021, as amended from time to time. This Policy operates within
-          and supplements the Master Terms &amp; Conditions of the Corpse
+          and supplements the Corpse Terms &amp; Conditions of the Corpse
           platform.
         </p>
         <h3 className="text-xl md:text-2xl font-medium mt-12 mb-6 text-white inline-block">

@@ -1036,7 +1036,7 @@ export default function PolicyPage() {
           granted a limited, non-exclusive, non-transferable, non-sublicensable,
           revocable licence to access and use the Platform and its features
           strictly for the personal, non-commercial purposes described in the
-          Master Terms and Conditions.
+          Corpse Terms and Conditions.
         </p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">This licence specifically does NOT include:</p>
         <ul className="list-disc pl-10 space-y-3 mb-10 text-white/80 text-left bg-[#101010] p-8 rounded-xl border-l-4 border-[#e8192c] max-w-3xl w-full shadow-lg shadow-black/50">

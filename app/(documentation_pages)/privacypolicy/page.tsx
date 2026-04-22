@@ -19,7 +19,7 @@ export default function PolicyPage() {
           <em>The Operating System for Esports</em>
         </p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
-          <strong>Master Privacy Policy</strong>
+          <strong>Corpse Privacy Policy</strong>
         </p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <strong>Version 2.0 — Complete Platform Coverage</strong>
@@ -163,7 +163,7 @@ export default function PolicyPage() {
         </div> */}
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <em>
-            This Master Privacy Policy v2.0 is the single, definitive, and
+            This Corpse Privacy Policy v2.0 is the single, definitive, and
             complete document governing how [CORPSE ESPORTS PRIVATE LIMITED]
             collects, uses, stores, shares, and protects personal data across
             the entire Corpse platform — for all users, all organisers, and all
@@ -192,7 +192,7 @@ export default function PolicyPage() {
           [CORPSE ESPORTS PRIVATE LIMITED] (&quot;Company&quot;, &quot;we&quot;,
           &quot;us&quot;, &quot;our&quot;) operates the Corpse platform — a
           competitive esports infrastructure platform available as a mobile
-          application on iOS and Android (&quot;Platform&quot;). This Master
+          application on iOS and Android (&quot;Platform&quot;). This Corpse
           Privacy Policy (&quot;Policy&quot;) is the single, definitive, and
           complete document governing how the Company collects, uses, stores,
           shares, and protects personal data across every feature, function, and
@@ -4647,7 +4647,7 @@ export default function PolicyPage() {
           </li>
         </ul>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
-          This Master Privacy Policy v2.0 was last updated in April 2026 and is
+          This Corpse Privacy Policy v2.0 was last updated in April 2026 and is
           effective from May 1, 2026.
         </p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">

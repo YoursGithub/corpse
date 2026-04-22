@@ -1,15 +1,15 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Master Terms & Conditions | Corpse",
-  description: "Master Terms & Conditions for the Corpse platform.",
+  title: "Corpse Terms & Conditions | Corpse",
+  description: "Corpse Terms & Conditions for the Corpse platform.",
 };
 
 export default function PolicyPage() {
   return (
     <main className="container mx-auto px-4 py-16 md:py-32 max-w-5xl min-h-screen flex flex-col items-center text-center relative z-10">
       <h1 className="text-4xl md:text-6xl font-bold mb-12 text-[#e8192c] uppercase tracking-wider drop-shadow-[0_0_15px_rgba(232,25,44,0.4)]">
-        Master Terms & Conditions
+        Corpse Terms & Conditions
       </h1>
       <div className="space-y-8 text-white/70 text-lg flex flex-col items-center w-full">
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
@@ -356,7 +356,7 @@ export default function PolicyPage() {
         </h2>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           For the purpose of these Terms, the following definitions apply in
-          addition to any definitions provided in the Master Terms &amp;
+          addition to any definitions provided in the Corpse Terms &amp;
           Conditions:
         </p>
         <div className="overflow-x-auto mb-10 w-full max-w-4xl">
@@ -544,7 +544,7 @@ export default function PolicyPage() {
             </tr>
             <tr className="border-b border-white/10">
               <td className="border border-white/20 p-3">
-                <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">Master Terms &amp; Conditions</p>
+                <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">Corpse Terms &amp; Conditions</p>
               </td>
               <td className="border border-white/20 p-3">
                 <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">

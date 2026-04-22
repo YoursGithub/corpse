@@ -74,7 +74,7 @@ export default function PolicyPage() {
               </td>
               <td className="border border-white/20 p-3">
                 <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
-                  Master Terms &amp; Conditions | Account Suspension &amp; Ban
+                  Corpse Terms &amp; Conditions | Account Suspension &amp; Ban
                   T&amp;C
                 </p>
               </td>
@@ -308,7 +308,7 @@ export default function PolicyPage() {
             </tr>
             <tr className="border-b border-white/10">
               <td className="border border-white/20 p-3">
-                <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">Master Terms &amp; Conditions</p>
+                <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">Corpse Terms &amp; Conditions</p>
               </td>
               <td className="border border-white/20 p-3">
                 <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
@@ -1558,7 +1558,7 @@ export default function PolicyPage() {
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           Internal guild rules are a private governance tool for the guild —
           they are not enforced by the Platform. The Platform only enforces its
-          own policies (Master T&amp;C, Suspension Policy, Arena T&amp;C, this
+          own policies (Corpse T&amp;C, Suspension Policy, Arena T&amp;C, this
           Guild Policy). Guild-specific internal rules are entirely the
           Captain's responsibility to establish and enforce within the guild's
           own management structure.
@@ -1624,7 +1624,7 @@ export default function PolicyPage() {
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           Guild internal rules operate within the boundaries set by the
           Platform's policies — they cannot override, modify, or contradict any
-          rule established in the Master Terms &amp; Conditions, the Account
+          rule established in the Corpse Terms &amp; Conditions, the Account
           Suspension &amp; Ban T&amp;C, the Arena Joining T&amp;C, or this Guild
           Policy. In the event of any conflict between a guild's internal rules
           and Platform policies, Platform policies prevail without exception.
@@ -1852,7 +1852,7 @@ export default function PolicyPage() {
           <li>
             Operating a guild in violation of Platform policies — establishing
             internal guild rules that require or encourage members to violate
-            the Master T&amp;C, Arena T&amp;C, or any other Platform policy.
+            the Corpse T&amp;C, Arena T&amp;C, or any other Platform policy.
           </li>
           <li>
             Using the guild structure to facilitate financial fraud — for
@@ -1867,7 +1867,7 @@ export default function PolicyPage() {
           As a guild member, you are individually responsible for your own
           conduct on the Platform — both within guild activities and outside of
           them. Being a member of a guild does not diminish your individual
-          obligations under the Master T&amp;C and other Platform policies.
+          obligations under the Corpse T&amp;C and other Platform policies.
           Additionally, as a guild member, you agree to:
         </p>
         <ul className="list-disc pl-10 space-y-3 mb-10 text-white/80 text-left bg-[#101010] p-8 rounded-xl border-l-4 border-[#e8192c] max-w-3xl w-full shadow-lg shadow-black/50">
@@ -1896,7 +1896,7 @@ export default function PolicyPage() {
         </h2>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           Any registered user on the Platform may report a guild for conduct
-          that violates this Guild Policy or the Platform's Master Terms &amp;
+          that violates this Guild Policy or the Platform's Corpse Terms &amp;
           Conditions. Reports can be submitted through the Platform's in-app
           reporting mechanism:
         </p>
@@ -2082,7 +2082,7 @@ export default function PolicyPage() {
           with the laws of India, including the Information Technology Act 2000
           and the IT (Intermediary Guidelines and Digital Media Ethics Code)
           Rules 2021, as amended from time to time. This Guild Policy operates
-          within and supplements the Master Terms &amp; Conditions of the Corpse
+          within and supplements the Corpse Terms &amp; Conditions of the Corpse
           platform.
         </p>
         <h2 className="text-2xl md:text-3xl font-semibold mt-16 mb-8 text-white border-b-2 border-[#e8192c]/50 pb-4 inline-block">
@@ -2098,7 +2098,7 @@ export default function PolicyPage() {
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           However, disputes involving Platform policy violations — including but
           not limited to guild conduct violations, wrongful guild suspension or
-          dissolution, or conduct by guild members that violates the Master
+          dissolution, or conduct by guild members that violates the Corpse
           T&amp;C — may be raised with the Platform's support team. Such
           disputes are handled as follows:
         </p>

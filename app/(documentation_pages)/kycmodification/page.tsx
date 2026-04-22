@@ -231,7 +231,7 @@ export default function PolicyPage() {
         </ul>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           These KYC Terms must be read alongside the Money Deposit &amp; Receive
-          Policy and the Master Terms &amp; Conditions of the Platform, all of
+          Policy and the Corpse Terms &amp; Conditions of the Platform, all of
           which together constitute the binding financial framework governing
           your use of the Platform.
         </p>

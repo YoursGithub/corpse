@@ -256,7 +256,7 @@ export default function PolicyPage() {
             Active acceptance — at account creation, users are presented with a
             summary of key legal documents and must actively check an acceptance
             box before their account is created. This constitutes explicit,
-            recorded acceptance of the Master Terms &amp; Conditions and Master
+            recorded acceptance of the Corpse Terms &amp; Conditions and Corpse
             Privacy Policy as of the date of account creation.
           </li>
           <li>
@@ -330,7 +330,7 @@ export default function PolicyPage() {
               </tr>
               <tr className="border-b border-white/10">
                 <td className="border border-white/20 p-3">
-                  <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">Master Terms &amp; Conditions</p>
+                  <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">Corpse Terms &amp; Conditions</p>
                 </td>
                 <td className="border border-white/20 p-3">
                   <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
@@ -388,7 +388,7 @@ export default function PolicyPage() {
               </tr>
               <tr className="border-b border-white/10">
                 <td className="border border-white/20 p-3">
-                  <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">Master Privacy Policy v2.0</p>
+                  <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">Corpse Privacy Policy v2.0</p>
                 </td>
                 <td className="border border-white/20 p-3">
                   <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
