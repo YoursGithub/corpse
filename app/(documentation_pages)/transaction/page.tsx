@@ -13,7 +13,7 @@ export default function PolicyPage() {
       </h1>
       <div className="space-y-8 text-white/70 text-lg flex flex-col items-center w-full">
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
-          <strong>CORPSE</strong>
+          <strong>CORPSE </strong>
         </p>
         <p className="mb-6 max-w-3xl w-full leading-relaxed text-[#d7d7d7]">
           <em>The Operating System for Esports</em>
